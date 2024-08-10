@@ -23,8 +23,8 @@ Designing and building the Weather Dashboard taught me a lot since it was my fir
 - Used Axios to make HTTP requests to API
 - Added a custom loading spinner animation as the default image for weather icons (allows user to see a loading image instead of a broken image tag until the weather icons loads)
 
-# Light Mode
-<a href="https://weather.aniqa.dev" target="_blank"><img src="https://github.com/aniqatc/weather/blob/main/assets/og-img.png?raw=true" style="max-width: 100%;"></a>
-
-# Dark Mode
-<a href="https://weather.aniqa.dev" target="_blank"><img src="/assets/screenshot-dark.png" style="max-width: 100%;"></a>
+![image](https://github.com/user-attachments/assets/e6d4e789-7360-4d55-81ed-36a9f73c402c)
+![image](https://github.com/user-attachments/assets/6bf2e7a3-1a5d-4c09-b3c7-1fc63a5b819e)
+![image](https://github.com/user-attachments/assets/5155e3fd-6f0c-4841-bcd9-b32213bc0dc3)
+![image](https://github.com/user-attachments/assets/e50764cd-c6b8-4712-a7af-07b175831f37)
+![image](https://github.com/user-attachments/assets/b8acb69b-48e5-427a-937e-59cd166ef527)
